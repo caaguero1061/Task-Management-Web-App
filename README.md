@@ -18,3 +18,6 @@ It also includes a Contact page with a fully controlled form.
 - CSS
 - (Optional) Redux / Redux Toolkit
 ## Ideas for Future Improvement
+1. Persist todos using LocalStorage or a database API so tasks remain after refresh.
+2. Add an “Edit todo” feature and due dates/priority tags.
+3. Add form validation and success/error messages on the Contact page.
