@@ -12,6 +12,20 @@ It also includes a Contact page with a fully controlled form.
 - Completed todos are visually distinct (strike-through styling).
 - Filter todos
 As a user, I want to view all / completed / incomplete tasks, so I can focus on what matters.
+## Wireframes
+Layout
+Top: Horizontal NavBar (links: Todos, Contact)
+Main content below nav:
+Left column: “New Todo” form (side-by-side requirement)
+Text input
+Submit button
+Filter buttons/links: All | Completed | Incomplete
+Right column: Todo list
+Each todo row shows:
+checkbox or “Complete” button
+todo text
+remove/delete button
+Completed items show a strike-through (or faded style)
 ## Technologies Used
 - React (Create React App)
 - React Router
