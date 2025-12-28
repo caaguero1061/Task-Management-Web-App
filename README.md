@@ -11,3 +11,9 @@ It also includes a Contact page with a fully controlled form.
   - **/contact**: Fill out a controlled contact form (first name, last name, email, comments).
 - Completed todos are visually distinct (strike-through styling).
 ## Technologies Used
+- React (Create React App)
+- React Router
+- JavaScript
+- HTML
+- CSS
+- (Optional) Redux / Redux Toolkit
