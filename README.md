@@ -10,6 +10,8 @@ It also includes a Contact page with a fully controlled form.
   - **/todos**: Add tasks, mark tasks complete, delete tasks, and filter tasks (all/completed/incomplete).
   - **/contact**: Fill out a controlled contact form (first name, last name, email, comments).
 - Completed todos are visually distinct (strike-through styling).
+- Filter todos
+As a user, I want to view all / completed / incomplete tasks, so I can focus on what matters.
 ## Technologies Used
 - React (Create React App)
 - React Router
