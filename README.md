@@ -1,7 +1,7 @@
 # Task Management Web App
 
 ## Name
-Cassy Aguero
+Cassandra Aguero
 
 ## Overview
 A React task management application that lets users create, view, complete, delete, and filter todos.  
