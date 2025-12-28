@@ -14,9 +14,9 @@ It also includes a Contact page with a fully controlled form.
 As a user, I want to view all / completed / incomplete tasks, so I can focus on what matters.
 ## Wireframes
 Layout
-Top: Horizontal NavBar (links: Todos, Contact)
+Top: Horizontal NavBar 
 Main content below nav:
-Left column: “New Todo” form (side-by-side requirement)
+Left column: New todo form 
 Text input
 Submit button
 Filter buttons/links: All | Completed | Incomplete
