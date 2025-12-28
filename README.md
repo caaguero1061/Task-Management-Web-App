@@ -17,3 +17,4 @@ It also includes a Contact page with a fully controlled form.
 - HTML
 - CSS
 - (Optional) Redux / Redux Toolkit
+## Ideas for Future Improvement
