@@ -22,3 +22,5 @@ It also includes a Contact page with a fully controlled form.
 2. Add an “Edit todo” feature and due dates/priority tags.
 3. Add form validation and success/error messages on the Contact page.
 ## Links
+- GitHub Repo: <your repo link>
+- Live Site (GitHub Pages): <your gh-pages link>
