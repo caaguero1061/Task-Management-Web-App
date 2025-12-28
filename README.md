@@ -9,3 +9,4 @@ It also includes a Contact page with a fully controlled form.
 - Use the navigation bar to switch between:
   - **/todos**: Add tasks, mark tasks complete, delete tasks, and filter tasks (all/completed/incomplete).
   - **/contact**: Fill out a controlled contact form (first name, last name, email, comments).
+- Completed todos are visually distinct (strike-through styling).
